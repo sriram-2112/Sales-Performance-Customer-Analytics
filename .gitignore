@@ -1,0 +1,23 @@
+# Operating-system files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+
+# Local database exports and credentials
+.env
+*.sqlite
+*.db
+*.bak
+
+# Temporary files
+*.tmp
+*.log
+~$*
+
+# Python artifacts if analysis notebooks are added later
+__pycache__/
+.ipynb_checkpoints/
